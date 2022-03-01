@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  /* background-color: rgb(188, 209, 202); */
+}
+
+.App .body{
+  width: 80%;
+  height: 80%;
+  border: 2px solid black;
+}
