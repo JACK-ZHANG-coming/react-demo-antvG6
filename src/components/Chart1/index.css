@@ -8,3 +8,9 @@
   padding: 10px 8px;
   box-shadow: rgb(174, 174, 174) 0px 0px 10px;
 }
+
+.minimap{
+  position: absolute;
+  border: 1px solid red;
+  bottom: 0px;
+}
